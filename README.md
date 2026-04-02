@@ -12,4 +12,4 @@ My name is **Tales Marques Rocha**, and this account has the purpose of storing 
 
 <ins>**Atualmente Trabalhando em/Currently working on**</ins> 🖥️
 ---
-Projeto Integrador S1 - Grupo 2 |[Link](https://github.com/GRUPO2-PROJETOINTEGRADOR) |
+Projeto Integrador S1 - Grupo 2 |[Link](https://github.com/GRUPO2-PROJETOINTEGRADOR)|
