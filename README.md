@@ -8,7 +8,7 @@ Meu nome é **Tales Marques Rocha**, e esta conta possui a função de guardar t
 <ins>**English**</ins> 🇺🇸 || 🇬🇧
 ---
 My name is **Tales Marques Rocha**, and this account has the purpose of storing everything that was made during my studies on the graduation of Software Engineering, at the UFG-Universidade federal de Goiás.\
-*Lp's that I code:* Go, Python.
+*LP's that I code:* Go, Python.
 
 <ins>**Atualmente Trabalhando em/Currently working on**</ins> 🖥️
 ---
