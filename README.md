@@ -11,7 +11,7 @@ My name is **Tales Marques Rocha**, and this account has the purpose of storing 
 <ins>**Linguagens de programação/Programming Languages**</ins> ✏️
 ---
 <img src="https://github.com/user-attachments/assets/e50fb430-2fd7-46d7-82a9-38bba77d4c1e" width="50%"/>
-![alt add](https://github.com/user-attachments/assets/e50fb430-2fd7-46d7-82a9-38bba77d4c1e "Golang")
+![alt text](https://github.com/user-attachments/assets/e50fb430-2fd7-46d7-82a9-38bba77d4c1e "Golang")
 
 <ins>**Atualmente Trabalhando em/Currently working on**</ins> 🖥️
 ---
