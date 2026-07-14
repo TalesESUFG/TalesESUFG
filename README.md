@@ -1,7 +1,7 @@
 
 ## Olá! Seja bem vindo a este perfil! 👋
 
-**Linkedin:** [Clique aqui/Click here](https://www.linkedin.com/in/tales-marques-rocha-88534a403/)
+**Linkedin:** [Clique aqui/Click here](https://www.linkedin.com/in/talesmarquesrocha)
 
 <ins>**Português**</ins> 🇧🇷
 ---
