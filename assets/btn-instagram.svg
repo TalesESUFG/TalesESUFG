@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="132" height="40" viewBox="0 0 132 40" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="ig" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#feda75"/><stop offset="0.35" stop-color="#fa7e1e"/>
+      <stop offset="0.6" stop-color="#d62976"/><stop offset="1" stop-color="#4f5bd5"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="131" height="39" rx="6" fill="#161b22" stroke="#30363d"/>
+  <rect x="12" y="10" width="20" height="20" rx="6" fill="url(#ig)"/>
+  <rect x="15.5" y="13.5" width="13" height="13" rx="4" fill="none" stroke="#fff" stroke-width="1.6"/>
+  <circle cx="22" cy="20" r="3" fill="none" stroke="#fff" stroke-width="1.6"/>
+  <circle cx="26.2" cy="15.8" r="0.9" fill="#fff"/>
+  <text x="42" y="25" font-size="14" font-weight="700" fill="#e6edf3">Instagram</text>
+</svg>
