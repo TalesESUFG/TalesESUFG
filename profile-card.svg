@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="794" viewBox="0 0 880 794" font-family="'Segoe UI', Ubuntu, 'Helvetica Neue', Helvetica, Arial, sans-serif" role="img" aria-label="Tales M. GitHub profile card"><rect x="0.5" y="0.5" width="879" height="793" rx="12" fill="#0d1117" stroke="#30363d"/><text x="28.0" y="50.0" font-size="26" fill="#58a6ff" font-weight="700" text-anchor="start" >Tales M.</text>
 <text x="28.0" y="74.0" font-size="12" fill="#8b949e" font-weight="normal" text-anchor="start" >CEIA · Software Engineering undergraduate @ UFG</text>
-<text x="28.0" y="110.0" font-size="18" fill="#e6edf3" font-weight="600" text-anchor="start" >340 contributions</text>
+<text x="28.0" y="110.0" font-size="18" fill="#e6edf3" font-weight="600" text-anchor="start" >341 contributions</text>
 <text x="28.0" y="132.0" font-size="12" fill="#8b949e" font-weight="normal" text-anchor="start" >2025-11-25 — 2026-11-25</text>
 <rect x="253" y="97" width="8" height="8" rx="1.5" fill="#161b22"/>
 <rect x="264" y="97" width="8" height="8" rx="1.5" fill="#39d353"/>
@@ -70,8 +70,8 @@
 <rect x="156.9" y="502.2" width="18" height="57.8" rx="3" fill="#2ea043"/>
 <text x="165.9" y="495.2" font-size="11" fill="#c9d1d9" font-weight="normal" text-anchor="middle" >65</text>
 <text x="165.9" y="578.0" font-size="11" fill="#c9d1d9" font-weight="normal" text-anchor="middle" >Tue</text>
-<rect x="212.0" y="496.0" width="18" height="64.0" rx="3" fill="#2ea043"/>
-<text x="221.0" y="489.0" font-size="11" fill="#c9d1d9" font-weight="normal" text-anchor="middle" >72</text>
+<rect x="212.0" y="495.1" width="18" height="64.9" rx="3" fill="#2ea043"/>
+<text x="221.0" y="488.1" font-size="11" fill="#c9d1d9" font-weight="normal" text-anchor="middle" >73</text>
 <text x="221.0" y="578.0" font-size="11" fill="#c9d1d9" font-weight="normal" text-anchor="middle" >Wed</text>
 <rect x="267.1" y="504.9" width="18" height="55.1" rx="3" fill="#2ea043"/>
 <text x="276.1" y="497.9" font-size="11" fill="#c9d1d9" font-weight="normal" text-anchor="middle" >62</text>
@@ -579,9 +579,9 @@
 <polygon points="251.7,143.0 257.4,145.6 252.8,148.2 247.1,145.6" fill="#21262d" stroke="#0d1117" stroke-width="0.4"/>
 <polygon points="262.0,143.0 267.7,145.6 263.1,148.2 257.4,145.6" fill="#21262d" stroke="#0d1117" stroke-width="0.4"/>
 <polygon points="272.3,143.0 278.0,145.6 273.4,148.2 267.7,145.6" fill="#21262d" stroke="#0d1117" stroke-width="0.4"/>
-<polygon points="278.0,145.6 283.7,148.2 283.7,136.2 278.0,133.6" fill="#004c23"/>
-<polygon points="288.3,145.6 283.7,148.2 283.7,136.2 288.3,133.6" fill="#003619"/>
-<polygon points="282.6,131.0 288.3,133.6 283.7,136.2 278.0,133.6" fill="#006d32"/>
+<polygon points="278.0,145.6 283.7,148.2 283.7,135.1 278.0,132.5" fill="#004c23"/>
+<polygon points="288.3,145.6 283.7,148.2 283.7,135.1 288.3,132.5" fill="#003619"/>
+<polygon points="282.6,129.9 288.3,132.5 283.7,135.1 278.0,132.5" fill="#006d32"/>
 <polygon points="257.4,145.6 263.1,148.2 258.5,150.8 252.8,148.2" fill="#21262d" stroke="#0d1117" stroke-width="0.4"/>
 <polygon points="267.7,145.6 273.4,148.2 268.8,150.8 263.1,148.2" fill="#21262d" stroke="#0d1117" stroke-width="0.4"/>
 <polygon points="263.1,148.2 268.8,150.8 264.2,153.4 258.5,150.8" fill="#21262d" stroke="#0d1117" stroke-width="0.4"/>
