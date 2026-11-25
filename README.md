@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/hello.svg" width="760" alt="Hello! Welcome to my GitHub!">
+</p>
+
 <p>
   <a href="https://ceia.ufg.br/"><img src="assets/ceia.svg" height="56" alt="CEIA — Centro de Excelência em Inteligência Artificial"></a>&nbsp;
   <a href="https://inf.ufg.br/"><img src="assets/inf-ufg.svg" height="56" alt="INF — UFG"></a>
